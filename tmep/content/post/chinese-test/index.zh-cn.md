@@ -1,6 +1,6 @@
 ---
-title: Chinese Test
-description: 这是一个副标题
+title: 우상수
+description: 컴퓨터공학부 3학년
 date: 2020-09-09
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
