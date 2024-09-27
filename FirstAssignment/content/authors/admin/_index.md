@@ -52,10 +52,10 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science
+    institution: JeonBuk University
+    date_start: 2022-03-02
+    date_end: 2026-02-21
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -110,7 +110,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++/C
         description: ''
         percent: 80
         icon: code-bracket
@@ -126,10 +126,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Swimming
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: person-simple-swim
       - name: Cats
         description: ''
         percent: 100
@@ -181,6 +181,6 @@ awards:
 
 ## About Me
 
-저는 현재 전북대학교 컴퓨터인공지능학부를 재학 중인 22학번 우상수라고 합니다.
+저는 현재 전북대학교 컴퓨터인공지능학부를 재학 중인 22학번 우상수라고 합니다. 
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
