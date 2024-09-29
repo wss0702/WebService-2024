@@ -1,0 +1,16 @@
+menus:
+  main:
+    - name: "Projects"
+      url: "/projects/"
+      weight: 1
+
+    # Projects 서브 탭을 추가
+    - name: "Project 1"
+      url: "/projects/project-1/"
+      parent: "Projects"  # 부모 메뉴 설정
+      weight: 2
+
+    - name: "Project 2"
+      url: "/projects/project-2/"
+      parent: "Projects"  # 부모 메뉴 설정
+      weight: 3
