@@ -9,10 +9,6 @@ name_pronunciation: Woo Sang Soo
 first_name: Sang Soo
 last_name: Woo
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -24,32 +20,17 @@ role: 전북대 컴퓨터공학부 재학중
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/wss0702/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - name: JBUN-CSAI
+    url: https://csai.jbnu.ac.kr/csai/index.do
+  
+#Profile picture
+#Update the filename to match your new image file.
+avatar: avatar.jpg
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Base
+  - Front end
 
 education:
   - area: BSc Computer Science
@@ -183,4 +164,3 @@ awards:
 
 저는 현재 전북대학교 컴퓨터인공지능학부를 재학 중인 22학번 우상수라고 합니다. 
 
-Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
