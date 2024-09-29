@@ -37,11 +37,11 @@
     </item>
     
     <item>
-      <title>Project 2</title>
-      <link>http://localhost:1313/project-2/</link>
-      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project-2/</guid>
-      <description>&lt;p&gt;This is the detailed page for &lt;strong&gt;Project 2&lt;/strong&gt;.&lt;/p&gt;
+      <title>WebService</title>
+      <link>http://localhost:1313/webservice/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/webservice/</guid>
+      <description>&lt;p&gt;This is the detailed page for &lt;strong&gt;WebService&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -316,7 +316,7 @@
 
 
 
-&lt;div id=&#34;chart-761593842&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-143689527&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -334,7 +334,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-761593842&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-143689527&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1120,6 +1120,15 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/java/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/java/</guid>
+      <description>&lt;h2 id=&#34;with&#34;&gt;With&lt;/h2&gt;
+&lt;p&gt;강주현, 엄주영&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Java-project</title>
+      <link>http://localhost:1313/project/java/java/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/java/java/</guid>
       <description>&lt;h2 id=&#34;with&#34;&gt;With&lt;/h2&gt;
 &lt;p&gt;강주현, 엄주영&lt;/p&gt;</description>
     </item>

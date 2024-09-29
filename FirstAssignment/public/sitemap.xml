@@ -10,8 +10,8 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project-2/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/webservice/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
@@ -135,6 +135,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/java/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/java/java/</loc>
     <lastmod>2023-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

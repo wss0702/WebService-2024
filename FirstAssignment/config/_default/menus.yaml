@@ -33,6 +33,6 @@ main:
     weight: 1
 
   - name: "WebService"
-    url: "project-2/"
+    url: "WebService"
     parent: "Projects"  
     weight: 2
