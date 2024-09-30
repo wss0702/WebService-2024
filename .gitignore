@@ -16,7 +16,6 @@ go.sum
 *~
 
 # Netlify config and log files
-netlify.toml
 
 # OS-generated files
 .DS_Store
