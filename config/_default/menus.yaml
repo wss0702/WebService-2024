@@ -27,12 +27,11 @@ main:
     weight: 40
 
   # Projects 서브 탭을 추가
-  - name: "Java"
+  - name: Java
     url: "Java"
-    parent: "Projects"  
+    parent: Projects
     weight: 1
-
-  - name: "WebService"
+  - name: WebService
     url: "WebService"
     parent: "Projects"  
     weight: 2
