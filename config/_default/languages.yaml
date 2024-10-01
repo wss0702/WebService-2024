@@ -33,8 +33,8 @@ ko:
     - name: 경력
       url: experience/
       weight: 20
-    - name: 프로젝트
-      url: projects/
+    - identifier: Projects
+      name: 프로젝트
       weight: 30
     - name: 연락
       url: Contact/
