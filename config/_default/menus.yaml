@@ -35,3 +35,7 @@ main:
     url: "WebService"
     parent: "Projects"  
     weight: 32
+  - name: SE
+    url: "SE"
+    parent: "Projects"
+    weight: 33
