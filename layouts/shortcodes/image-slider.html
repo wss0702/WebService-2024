@@ -1,0 +1,68 @@
+{{ $images := .Page.Params.images | default (slice) }}
+<div class="slider-container">
+  {{ range $images }}
+  <div class="slide">
+    <img src="{{ .src }}" alt="{{ .alt }}">
+    <div class="overlay">
+      <div class="text">{{ .text }}</div>
+    </div>
+  </div>
+  {{ end }}
+</div>
+
+
+<style>
+.slider {
+  position: relative;
+  max-width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.slide {
+  position: absolute;
+  width: 100%;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.slide.active {
+  opacity: 1;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* 투명 레이어 */
+  color: #fff;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+}
+
+.text-overlay {
+  font-size: 24px;
+  font-weight: bold;
+}
+</style>
+
+<script>
+let slideIndex = 0;
+const slides = document.getElementsByClassName("slide");
+
+function showSlides() {
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].classList.remove("active");
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {
+    slideIndex = 1;
+  }
+  slides[slideIndex - 1].classList.add("active");
+  setTimeout(showSlides, 3000); // 3초마다 슬라이드 변경
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+  showSlides();
+});
+</script>
