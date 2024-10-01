@@ -6,8 +6,8 @@ title: 우상수
 name_pronunciation: Woo Sang Soo
 
 # Full name (for SEO)
-first_name: Sang Soo
-last_name: Woo
+first_name: 상수
+last_name: 우
 
 # Is this the primary user of the site?
 superuser: true
@@ -28,13 +28,13 @@ organizations:
 avatar: avatar.jpg
 
 interests:
-  - Artificial Intelligence
-  - Data Base
-  - Front end
+  - 데이터베이스
+  - 프로트엔드
+  - 백엔드
 
 education:
-  - area: BSc Computer Science
-    institution: JeonBuk University
+  - area: 컴퓨터공학
+    institution: 전북대
     date_start: 2022-03-02
     date_end: 2026-02-21
     summary: |
