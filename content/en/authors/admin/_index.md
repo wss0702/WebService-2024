@@ -16,7 +16,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: student JBNU
+role: 전북대 컴퓨터공학부 재학중
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -162,5 +162,5 @@ awards:
 
 ## About Me
 
-i am Woo Sang Soo
+저는 현재 전북대학교 컴퓨터인공지능학부를 재학 중인 22학번 우상수라고 합니다. 
 
