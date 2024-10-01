@@ -30,8 +30,12 @@ main:
   - name: Java
     url: "Java"
     parent: Projects
-    weight: 1
+    weight: 31
   - name: WebService
     url: "WebService"
     parent: "Projects"  
-    weight: 2
+    weight: 32
+  - name: SE
+    url: "SE"
+    parent: "Projects"  
+    weight: 33
