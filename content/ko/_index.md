@@ -7,6 +7,16 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
+images:
+  - src: "/images/slide1.jpg"
+    alt: "Slide 1"
+    text: "Welcome to Slide 1"
+  - src: "/images/slide2.jpg"
+    alt: "Slide 2"
+    text: "Discover Slide 2"
+  - src: "/images/slide3.jpg"
+    alt: "Slide 3"
+    text: "Enjoy Slide 3"
 
 sections:
   - block: resume-biography-3
@@ -118,4 +128,11 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+  - block: markdown
+    content:
+      title: "My Image Slider"
+      text: |-
+        {{< image-slider >}}
+
+
 ---
