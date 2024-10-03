@@ -50,7 +50,7 @@ sections:
       columns: '1'
 
   - block: collection
-    id: papers
+    id: skills
     content:
       title: Featured Publications
       filters:
