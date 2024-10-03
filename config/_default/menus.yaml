@@ -7,7 +7,7 @@ main:
   - name: About
     url: /
     weight: 10
-  - name: papers
+  - name: skills
     url: /#papers
     weight: 11
   - name: Reserach
