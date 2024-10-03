@@ -1,19 +1,20 @@
 ---
-title: C/C++
+title: SQL
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
 date: 2023-10-24
 
 authors:
   - admin
 tags:
-  - C/C++
+  - SQL
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com)"
-  src: "/images/React.jpg"
+
 share: false
 featured: true
 ---
 
 
-**자료구조/알고리즘 스터디**
+**자격증**
+SQLP준비 중
 
