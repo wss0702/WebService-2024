@@ -26,7 +26,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: 재학증명서 다운로드
         url: uploads/registration.pdf
     design:
       css_class: dark
