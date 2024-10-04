@@ -61,5 +61,4 @@ features:
     enable: false
 
 params:
-  description: "전북대 우상수"
   homepage_featured_image: "/images/homepage-featured.jpg"
