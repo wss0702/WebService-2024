@@ -124,9 +124,7 @@ languages:
   - name: Korean
     percent: 100
   - name: English
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 50
 
 
 ---
