@@ -59,3 +59,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+params:
+  description: "전북대 우상수"
+  default_featured_image: "/images/slide1.jpg"
