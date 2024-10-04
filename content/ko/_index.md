@@ -62,7 +62,7 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: Projects
+      title: 프로젝트
       text: ""
       filters:
         folders:
