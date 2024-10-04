@@ -61,4 +61,4 @@ features:
     enable: false
 
 params:
-  homepage_featured_image: "/images/homepage-featured.jpg"
+  image: "/images/homepage-featured.jpg"
