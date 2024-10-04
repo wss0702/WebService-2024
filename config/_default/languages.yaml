@@ -13,16 +13,16 @@ en:
 ko:
  languageCode: ko
  contentDir: content/ko
- title: 한국어 웹사이트 제목
+ title: 우상수
  params:
-   description: "한국어 웹사이트 설명"
+   description: "전북대 우상수"
  menu:
   main:
     - name: 소개
       url: /
       weight: 10
-    - name: 종이
-      url: /#papers
+    - name: 기술
+      url: /#skills
       weight: 11
     - name: 연구
       url: /#talks
