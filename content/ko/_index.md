@@ -136,48 +136,15 @@ sections:
 
   - block: slider
     design:
-      slide_height: "600px" # 슬라이드의 높이 설정
+      slide_height: "300px" # 슬라이드의 높이 설정
       is_fullscreen: false  # 슬라이드가 전체 화면을 차지할지 여부
     content:
       slides:
         - title: "DB"
           content: "Explore the latest updates and projects"
-          align: "center"
-          background:
-            image:
-              filename: "slide2.jpg"
-              position: "center"
-              size: "cover"
-            gradient_start: "#4CAF50"
-            gradient_end: "#81C784"
-            gradient_angle: 135
-            filters:
-              brightness: 0.8
-          -title: "Front end"
+        - title: "Front end"
           content: "Discover a collection of my projects in various fields"
-          align: "left"
-          background:
-            image:
-              filename: "slide3.jpg"
-              position: "center"
-              size: "cover"
-            gradient_start: "#3F51B5"
-            gradient_end: "#5C6BC0"
-            gradient_angle: 90
-            filters:
-              brightness: 0.9
-        - title: "Get in Touch"
+        - title: "back end"
           content: "Feel free to reach out if you have any questions"
-          align: "right"
-          background:
-            image:
-              filename: "homepage-featured.jpg"
-              position: "center"
-              size: "cover"
-            gradient_start: "#FF5722"
-            gradient_end: "#FF8A65"
-            gradient_angle: 45
-            filters:
-              brightness: 0.85
-
+       
 ---
