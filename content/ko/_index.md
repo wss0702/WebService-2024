@@ -83,17 +83,7 @@ sections:
     design:
       view: article-grid
       columns: 3
-  - block: collection
-    id: talks
-    content:
-      title: Research
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-
+  
   - block: cta-card
 
     content:
