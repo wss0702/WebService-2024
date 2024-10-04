@@ -4,6 +4,18 @@
   <meta name="description" content="{{ .Site.Params.marketing.seo.description }}">
   <meta name="google-site-verification" content="FeJvLStKB7jkr4b03WCWTCO4SAAvJuoQijZMWMuRv1Y" />
   
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ .Site.Params.marketing.seo.description }}" />
+  <meta property="og:image" content="{{ .Site.Params.homepage_featured_image }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ .Title }}" />
+  <meta name="twitter:description" content="{{ .Site.Params.marketing.seo.description }}" />
+  <meta name="twitter:image" content="{{ .Site.Params.homepage_featured_image }}" />
+
+
   <title>{{ .Title }} - {{ .Site.Title }}</title>
   
   {{ partial "meta.html" . }}
