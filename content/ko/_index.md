@@ -72,6 +72,15 @@ sections:
       view: date-title-summary
       spacing:
         padding: [1, 1, 1, 1]
+  - block: collection
+    id: hobbies
+    content:
+      title: hobbies
+      filters:
+      folders:
+      - hobbies
+      design:
+        view: 
 
 
   - block: collection
