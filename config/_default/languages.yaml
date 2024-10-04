@@ -24,8 +24,8 @@ ko:
     - name: 기술
       url: /#skills
       weight: 11
-    - name: 연구
-      url: /#talks
+    - name: 취미
+      url: /#hobbies
       weight: 12
     - name: 정보
       url: /#news
