@@ -1,13 +1,5 @@
 ---
 title: Contact
-summary: My github
-type: landing
-
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
 
 sections:
   - block: collection
@@ -18,7 +10,11 @@ sections:
         folders:
         - contact
       design: 
-       view: article-grid
+       view: card
        columns: 6
-      
+
 ---
+
+
+방문상담은 아래와 같은 주소로 방문해주세요
+{{< kakaomap latitude="33.450701" longitude="126.570667" level="3" >}}
