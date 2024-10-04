@@ -10,8 +10,8 @@ main:
   - name: skills
     url: /#skills
     weight: 11
-  - name: Reserach
-    url: /#talks
+  - name: hobbies
+    url: /#hobbies
     weight: 12
   - name: Inform
     url: /#news
