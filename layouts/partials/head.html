@@ -1,0 +1,20 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ .Site.Params.marketing.seo.description }}">
+  <meta name="google-site-verification" content="FeJvLStKB7jkr4b03WCWTCO4SAAvJuoQijZMWMuRv1Y" />
+  
+  <title>{{ .Title }} - {{ .Site.Title }}</title>
+  
+  {{ partial "meta.html" . }}
+  {{- if .Site.Params.marketing.analytics.google_analytics -}}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.marketing.analytics.google_analytics }}"></script>
+  <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '{{ .Site.Params.marketing.analytics.google_analytics }}');
+  </script>
+  {{- end }}
+</head>
