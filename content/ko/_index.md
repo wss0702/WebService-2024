@@ -62,11 +62,11 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: Recent Publications
+      title: Projects
       text: ""
       filters:
         folders:
-          - publication
+          - projects
         exclude_featured: false
     design:
       view: citation
