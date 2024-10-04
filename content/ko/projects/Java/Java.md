@@ -1,6 +1,7 @@
 ---
 title: Java-project
 date: 2023-06-16
+summary: 2023년 2학년 2학기 객체지향 프로그램밍시간에 진행한 팀프로젝트
 external_link: https://github.com/wss0702/JAVA-2023
 tags:
   -Java
