@@ -7,13 +7,13 @@
   <!-- Open Graph Meta Tags -->
   <meta property="og:title" content="{{ .Title }}" />
   <meta property="og:description" content="{{ .Params.marketing.seo.description }}" />
-  <meta property="og:image" content="{{ .Params.params.image }}" />
+  <meta property="og:image" content="{{ .Site.Params.image }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:type" content="website" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ .Title }}" />
   <meta name="twitter:description" content="{{ .Params.marketing.seo.description }}" />
-  <meta name="twitter:image" content="{{ .Params.homepage_featured_image }}" />
+  <meta name="twitter:image" content="{{ .Site.Params.image }}" />
 
 
   <title>{{ .Title }} - {{ .Site.Title }}</title>
