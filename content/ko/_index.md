@@ -82,8 +82,7 @@ sections:
           - hobbies
     design:
       view: article-grid
-      columns: 1
-
+      columns: 3
   - block: collection
     id: talks
     content:
