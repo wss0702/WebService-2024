@@ -62,4 +62,4 @@ features:
 
 params:
   description: "전북대 우상수"
-  default_featured_image: "/images/homepage-featured.jpg"
+  homepage_featured_image: "/images/homepage-featured.jpg"
