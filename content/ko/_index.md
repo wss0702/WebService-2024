@@ -27,11 +27,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: 재학증명서 다운로드
-<<<<<<< HEAD
         url: uploads/registration.pdf
-=======
-        url: uploads/registration.pd
->>>>>>> main
     design:
       css_class: dark
       background:
@@ -64,10 +60,6 @@ sections:
     design:
       view: article-grid
       columns: 3
-<<<<<<< HEAD
-
-=======
->>>>>>> main
   - block: collection
     content:
       title: 프로젝트
