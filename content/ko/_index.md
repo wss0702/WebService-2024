@@ -60,16 +60,33 @@ sections:
     design:
       view: article-grid
       columns: 3
+
   - block: collection
     content:
       title: 프로젝트
-      text: ""
+      text: ''
+      page_type: projects
+      count: 5
+      # Filter on criteria
       filters:
-        folders:
-          - projects
+        author: ""
+        category: ""
+        tag: ""
         exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
-      view: citation
+      # Choose a layout view
+      view: date-title-summary
+      spacing:
+        padding: [1, 1, 1, 1]
+
+
   - block: collection
     id: talks
     content:
@@ -110,7 +127,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+
     content:
       title: 👉 Build your own academic website like this
       text: |-
