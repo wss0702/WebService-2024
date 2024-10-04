@@ -75,13 +75,14 @@ sections:
   - block: collection
     id: hobbies
     content:
-      title: hobbies
+      title: Hobbies
+      text: ""
       filters:
-      folders:
-      - hobbies
-      design:
-        view: 
-
+        folders:
+          - hobbies
+    design:
+      view: article-grid
+      columns: 1
 
   - block: collection
     id: talks
