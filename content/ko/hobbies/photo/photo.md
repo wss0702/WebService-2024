@@ -1,5 +1,5 @@
 ---
-title: swim
+title: photo
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 shard: false
