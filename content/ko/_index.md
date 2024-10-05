@@ -77,7 +77,6 @@ sections:
     design:
       view: article-grid
       columns: 3
-
   - block: slider
     design:
       slide_height: "300px" # 슬라이드의 높이 설정

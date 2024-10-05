@@ -5,7 +5,7 @@ sections:
   - block: collection
     id: contact
     content:
-      title: Contact Information
+      title: 연락 정보
       filters:
         folders:
         - contact
