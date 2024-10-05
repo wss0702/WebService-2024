@@ -1,5 +1,13 @@
 ---
 title: Contact
+summary: My github
+type: landing
+
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
 sections:
   - block: collection
@@ -10,11 +18,7 @@ sections:
         folders:
         - contact
       design: 
-       view: card
+       view: article-grid
        columns: 6
-
+      
 ---
-
-
-Please visit us at the following address for an in-person consultation.
-{{< kakaomap latitude="33.450701" longitude="126.570667" level="3" >}}

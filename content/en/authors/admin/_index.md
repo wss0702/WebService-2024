@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 우상수
+title: Woo Sang Soo
 
 # Name pronunciation (optional)
 name_pronunciation: Woo Sang Soo
@@ -16,11 +16,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: student JBNU
+role: Student at the Department of Computer Engineering, Jeonbuk National University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: JBUN-CSAI
+  - name: JBNU-CSAI
     url: https://csai.jbnu.ac.kr/csai/index.do
   
 #Profile picture
@@ -28,63 +28,15 @@ organizations:
 avatar: avatar.jpg
 
 interests:
-  - Artificial Intelligence
-  - Data Base
-  - Front end
+  - DataBase
+  - Fronted Development
+  - Backend Development
 
 education:
-  - area: BSc Computer Science
-    institution: JeonBuk University
+  - area: Computer Engineering
+    institution: Jeonbuk National University
     date_start: 2022-03-02
     date_end: 2026-02-21
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -95,9 +47,9 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: React
         description: ''
-        percent: 100
+        percent: 10
         icon: chart-bar
       - name: SQL
         description: ''
@@ -110,11 +62,11 @@ skills:
       - name: Swimming
         description: ''
         percent: 60
-        icon: circle-stack
-      - name: Cats
+        icon: swim
+      - name: Bass Guitar
         description: ''
         percent: 100
-        icon: cat
+        icon: pick
       - name: Photography
         description: ''
         percent: 80
@@ -124,12 +76,12 @@ languages:
   - name: Korean
     percent: 100
   - name: English
-    percent: 50
-
+    percent: 75
 
 ---
 
-## About Me
+## About me
 
-i am Woo Sang Soo
+Hello, I am Sang Soo Woo, a student at the Department of Computer Engineering and Artificial Intelligence, Jeonbuk National University, Class of 2022. I have experience working on team projects involving Java and web services. Currently, I am focusing on developing my skills in databases, as it has become my primary area of interest.
+
 
