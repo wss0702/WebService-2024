@@ -20,7 +20,7 @@ role: 전북대 컴퓨터공학부 재학중
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: JBUN-CSAI
+  - name: 전북대 컴퓨터인공지능학부
     url: https://csai.jbnu.ac.kr/csai/index.do
   
 #Profile picture
@@ -47,9 +47,9 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: React
         description: ''
-        percent: 100
+        percent: 10
         icon: chart-bar
       - name: SQL
         description: ''
@@ -73,15 +73,15 @@ skills:
         icon: camera
 
 languages:
-  - name: Korean
+  - name: 한국어
     percent: 100
-  - name: English
+  - name: 영어
     percent: 75
 
 ---
 
-## About Me
+## 소개
 
-저는 현재 전북대학교 컴퓨터인공지능학부를 재학 중인 22학번 우상수라고 합니다. 
+저는 현재 전북대학교 컴퓨터인공지능학부를 재학 중인 22학번 우상수라고 합니다. 팀 프로젝트로 자바,웹서비스를 진행해 본 경험이 있습니다. 현재는 데이터 베이스에 관심이 생겨 DB와 관련된 역량을 쌓아가는 중입니다.
 
 
