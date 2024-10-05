@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 연락
 
 sections:
   - block: collection
