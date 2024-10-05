@@ -27,9 +27,6 @@ ko:
     - name: 취미
       url: /#hobbies
       weight: 12
-    - name: 정보
-      url: /#news
-      weight: 13
     - name: 경력
       url: experience/
       weight: 20

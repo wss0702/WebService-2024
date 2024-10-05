@@ -13,9 +13,6 @@ main:
   - name: hobbies
     url: /#hobbies
     weight: 12
-  - name: Inform
-    url: /#news
-    weight: 13
   - name: Experience
     url: experience/
     weight: 20
