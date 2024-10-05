@@ -84,10 +84,7 @@ sections:
     content:
       slides:
         - title: "DB"
-          content: "Explore the latest updates and projects"
         - title: "Front end"
-          content: "Discover a collection of my projects in various fields"
         - title: "back end"
-          content: "Feel free to reach out if you have any questions"
        
 ---
