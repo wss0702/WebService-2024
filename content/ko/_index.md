@@ -35,7 +35,7 @@ sections:
   - block: collection
     id: skills
     content:
-      title: Featured Publications
+      title: 기술
       filters:
         folders:
           - skills
@@ -45,6 +45,7 @@ sections:
       columns: 3
 
   - block: collection
+    id: projects
     content:
       title: 프로젝트
       text: ''
@@ -68,7 +69,7 @@ sections:
   - block: collection
     id: hobbies
     content:
-      title: Hobbies
+      title: 취미
       text: ""
       filters:
         folders:
@@ -82,6 +83,7 @@ sections:
       slide_height: "300px" # 슬라이드의 높이 설정
       is_fullscreen: false  # 슬라이드가 전체 화면을 차지할지 여부
     content:
+      title: 관심분야
       slides:
         - title: "DB"
         - title: "Front end"
