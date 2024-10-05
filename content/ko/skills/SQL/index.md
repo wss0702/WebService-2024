@@ -1,6 +1,6 @@
 ---
 title: SQL
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
+summary: 준비 중
 date: 2023-10-24
 
 authors:

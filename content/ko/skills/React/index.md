@@ -1,6 +1,6 @@
 ---
 title: React
-summary: 2024 개인 포폴 만들면서 배운 리액트
+summary: 
 date: 2024-09-02
 
 authors:
@@ -15,5 +15,6 @@ featured: true
 ---
 
 
-**team project**
+**팀 프로젝트**
+[팀 프로젝트](https://github.com/DeokJong/WSD-TERM-PROJECT)
 
