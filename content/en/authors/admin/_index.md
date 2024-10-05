@@ -66,7 +66,7 @@ skills:
       - name: Bass Guitar
         description: ''
         percent: 100
-        icon: pick
+        icon: bass
       - name: Photography
         description: ''
         percent: 80

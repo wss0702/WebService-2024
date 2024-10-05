@@ -70,7 +70,6 @@ sections:
     id: hobbies
     content:
       title: 취미
-      text: ""
       filters:
         folders:
           - hobbies

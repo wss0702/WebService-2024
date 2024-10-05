@@ -66,7 +66,7 @@ skills:
       - name: 베이스
         description: ''
         percent: 100
-        icon: pick
+        icon: bass
       - name: 사진
         description: ''
         percent: 80
