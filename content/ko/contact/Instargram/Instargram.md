@@ -1,12 +1,8 @@
 ---
-title: Instargram
-summary: My Instargram
-date: 2023-10-24
-type: docs
-math: false
+title: 인스타그램
 
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+external_link: https://www.instagram.com/wss070228/?hl=ko
+
 ---
 
-[Instargram](https://www.instagram.com/wss070228/?hl=ko)
+
