@@ -74,6 +74,7 @@ sections:
       filters:
         folders:
           - hobbies
+        featured_only: true
     design:
       view: article-grid
       columns: 3
