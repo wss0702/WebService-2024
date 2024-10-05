@@ -3,6 +3,12 @@ title: "소프트웨어 공학"
 date: 2024-09-02
 summary: 2024년 3학년 2학기 때 소프트웨어 공학에서 진행한 팀프로젝트
 external_link: https://github.com/niraaah/24SEproject
+
+tag:
+  python
+
+share: false
+featured: true
 ---
 
 **소프트웨어 공학**
