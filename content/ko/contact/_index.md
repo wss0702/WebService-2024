@@ -12,5 +12,3 @@ wss070228@gmail.com
 [url](https://github.com/wss0702)
 
 ## 방문 상담  
-
-{{< kakaomap latitude="33.450701" longitude="126.570667" level="3" >}}
