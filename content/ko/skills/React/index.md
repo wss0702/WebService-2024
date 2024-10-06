@@ -14,7 +14,6 @@ share: false
 featured: true
 ---
 
-
 **팀 프로젝트**
 [팀 프로젝트](https://github.com/DeokJong/WSD-TERM-PROJECT)
 
