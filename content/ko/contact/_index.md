@@ -11,6 +11,9 @@ sections:
       design: 
        view: card
        columns: 6
+draft: false
+build:
+  render: true
 
 ---
 
