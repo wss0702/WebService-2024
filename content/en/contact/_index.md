@@ -3,7 +3,6 @@ title: Contact
 
 sections:
   - block: collection
-    id: contact
     content:
       title: Contact Information
       filters:
