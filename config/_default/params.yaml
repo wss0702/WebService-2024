@@ -60,5 +60,4 @@ features:
   privacy_pack:
     enable: false
 
-params:
-  image: "/images/homepage-featured.jpg"
+

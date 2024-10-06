@@ -20,7 +20,7 @@ main:
     name: Projects
     weight: 30
   - name: Contact
-    url: Contact/#contact
+    url: Contact
     weight: 40
 
   # Projects 서브 탭을 추가
