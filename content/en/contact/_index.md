@@ -1,22 +1,16 @@
 ---
-title: Contact
-
-sections:
-  - block: collection
-    content:
-      title: 연락
-      filters:
-        folders:
-        - contact
-      design: 
-       view: card
-       columns: 6
-draft: false
-build:
-  render: true
+title: 'Contact info'
 ---
 
 
+## e-mail
+wss070228@gmail.com
 
-Please visit us at the following address for an in-person consultation.
+## phone-number
+010-2206-8718  
+## github
+[url](https://github.com/wss0702)
+
+## map 
+
 {{< kakaomap latitude="33.450701" longitude="126.570667" level="3" >}}
