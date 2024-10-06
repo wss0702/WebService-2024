@@ -4,7 +4,7 @@ title: Contact
 sections:
   - block: collection
     content:
-      title: Contact Information
+      title: 연락
       filters:
         folders:
         - contact
@@ -13,6 +13,7 @@ sections:
        columns: 6
 
 ---
+
 
 
 Please visit us at the following address for an in-person consultation.

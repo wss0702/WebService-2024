@@ -10,7 +10,7 @@ design:
 sections:
   - block: collection
     content:
-      title: 진행한 프로젝트들
+      title: major projects
       text: ''
       filters:
         folders:
